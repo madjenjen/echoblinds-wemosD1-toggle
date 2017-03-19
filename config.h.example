@@ -1,0 +1,6 @@
+#define NETID "netid" //insert your SSID
+#define PASS "password" //instert your network password
+#define DST_IP "xx.xx.xx.xx" //Relay server address
+#define PORT 3000
+#define API_KEY "api_key" //Insert your API key
+#define CLIENT_ID "client_id" //Create a unique identifier for the device
